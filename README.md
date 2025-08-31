@@ -1,2 +1,2 @@
-# Dise-oAnalisisAlgoritmos
+# AnalisisAlgoritmos
 Repositorio con tareas y proyectos de diseño y análisis de algoritmos
